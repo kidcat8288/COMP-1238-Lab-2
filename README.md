@@ -1,7 +1,7 @@
 # COMP-1238-Lab-2
 Markdown language practice 📋
 
-Number Row Characters=
+:open_file_folder: Number Row Characters=
 
 1. `!`-Exclamation mark
 2. `@`-At symbol
@@ -14,4 +14,5 @@ Number Row Characters=
 10. `(`-Left bracket
 11. `)`-Right bracket
 
-
+:globe_with_meridians: Links
+[My GitHub]() 
