@@ -16,13 +16,13 @@ Markdown language practice 📋
 
 
 
-# :globe_with_meridians: 
+:notes:
 [My GitHub](https://github.com/kidcat8288/COMP-1238-Lab-2.git)
 
-# :school:
+:blue_heart:
 [George Brown Colleg](https://www.georgebrown.ca/)
 
-# :book:
+:book:
 [D2L](https://learn.georgebrown.ca/d2l/home)
 
 # Experiments
