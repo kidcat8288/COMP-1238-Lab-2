@@ -14,8 +14,10 @@ Markdown language practice 📋
 10. `(`-Left bracket
 11. `)`-Right bracket
 
+
+
 # :globe_with_meridians: 
-[My GitHub](https://github.com/kidcat8288/COMP-1238-Lab-2.git) 
+[My GitHub](https://github.com/kidcat8288/COMP-1238-Lab-2.git)
 
 # :school:
 [George Brown Colleg](https://www.georgebrown.ca/)
