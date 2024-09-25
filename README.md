@@ -16,7 +16,7 @@ Markdown language practice 📋
 
 
 
-:notes:
+:woman_student:
 [My GitHub](https://github.com/kidcat8288/COMP-1238-Lab-2.git)
 
 :blue_heart:
@@ -28,3 +28,15 @@ Markdown language practice 📋
 # Experiments
 
 :violin: :musical_score: :musical_keyboard: :cd: :minidisc:
+
+
+## Keyboard shortcuts
+Shortcuts I frequently use: 
+- command-A :select all items
+- command-V :paste items in the clipboard
+- command-C:copy items in the clipboard
+
+Shortcuts I would like to start using: 
+- Ctrl-A
+- - Win-D (show desktop)
+- Super-Hyper-Meta-F (I don’t even have such keys, but it sounds impressive)
