@@ -1,7 +1,7 @@
 # COMP-1238-Lab-2
 Markdown language practice 📋
 
-# Number Row Characters:
+## Number Row Characters:
 
 1. `!` -Exclamation mark
 2. `@` -At symbol
@@ -16,18 +16,18 @@ Markdown language practice 📋
 
 
 
-:woman_student:
-[My GitHub](https://github.com/kidcat8288/COMP-1238-Lab-2.git)
 
-:blue_heart:
-[George Brown Colleg](https://www.georgebrown.ca/)
+1._[My GitHub](https://github.com/kidcat8288/COMP-1238-Lab-2.git)_
 
-:book:
-[D2L](https://learn.georgebrown.ca/d2l/home)
 
-# Experiments
+2._[George Brown Colleg](https://www.georgebrown.ca/)_
 
-:violin: :musical_score: :musical_keyboard: :cd: :minidisc: 
+
+3._[D2L](https://learn.georgebrown.ca/d2l/home)_
+
+### Experiments
+
+![Taiwan](https://www.istockphoto.com/photo/keelung-taiwan-skyline-gm896926984-247609862)
 
 ## Keyboard shortcuts
 Shortcuts I frequently use: 
