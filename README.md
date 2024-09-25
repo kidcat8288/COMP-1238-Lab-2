@@ -27,7 +27,7 @@ Markdown language practice 📋
 
 ### Experiments
 
-![Taiwan][https://news-image-api.abs-cbn.com/Prod/editorImage/17174973326446-4-2024%206-51-46%20PM.png]
+![Banff][/documents/2022_west_canada_banff/IMG_5021.JPG]
 
 ## Keyboard shortcuts
 Shortcuts I frequently use: 
