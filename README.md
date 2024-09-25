@@ -27,7 +27,7 @@ Markdown language practice 📋
 
 ### Experiments
 
-![Taiwan](https://www.istockphoto.com/photo/keelung-taiwan-skyline-gm896926984-247609862)
+![Taiwan][https://www.google.com/imgres?q=taiwan%20images%20free&imgurl=https%3A%2F%2Fimages.pexels.com%2Fphotos%2F260566%2Fpexels-photo-260566.jpeg&imgrefurl=https%3A%2F%2Fwww.pexels.com%2Fsearch%2Ftaiwan%2F&docid=g__Q2PF524Z42M&tbnid=WLjmtWmw4Gk21M&vet=12ahUKEwiH9MqrxN6IAxXsDDQIHbFvBA0QM3oECG8QAA..i&w=2000&h=1325&hcb=2&ved=2ahUKEwiH9MqrxN6IAxXsDDQIHbFvBA0QM3oECG8QAA]
 
 ## Keyboard shortcuts
 Shortcuts I frequently use: 
@@ -39,3 +39,6 @@ Shortcuts I frequently use:
 - `Control-Command-Q`:lock the screen
 - `Shift-Command-3`:taking the screen shots
 - `Control-Command-F`:use the app in full screen
+
+
+[def]: https://www.istockphoto.com/photo/keelung-taiwan-skyline-gm896926984-247609862
