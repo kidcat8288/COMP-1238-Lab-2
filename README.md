@@ -1,7 +1,7 @@
 # COMP-1238-Lab-2
 Markdown language practice 📋
 
-:open_file_folder: Number Row Characters:
+# Number Row Characters:
 
 1. `!`-Exclamation mark
 2. `@`-At symbol
@@ -16,7 +16,7 @@ Markdown language practice 📋
 
 
 
-:woman_student:
+**:woman_student:**
 [My GitHub](https://github.com/kidcat8288/COMP-1238-Lab-2.git)
 
 :blue_heart:
