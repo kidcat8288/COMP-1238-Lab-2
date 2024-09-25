@@ -1,7 +1,7 @@
 # COMP-1238-Lab-2
 Markdown language practice 📋
 
-:open_file_folder: Number Row Characters=
+:open_file_folder: Number Row Characters:
 
 1. `!`-Exclamation mark
 2. `@`-At symbol
@@ -27,8 +27,7 @@ Markdown language practice 📋
 
 # Experiments
 
-:violin: :musical_score: :musical_keyboard: :cd: :minidisc:
-
+:violin: :musical_score: :musical_keyboard: :cd: :minidisc: 
 
 ## Keyboard shortcuts
 Shortcuts I frequently use: 
@@ -36,7 +35,7 @@ Shortcuts I frequently use:
 - command-V :paste items in the clipboard
 - command-C:copy items in the clipboard
 
-Shortcuts I would like to start using: 
-- Ctrl-A
-- - Win-D (show desktop)
-- Super-Hyper-Meta-F (I don’t even have such keys, but it sounds impressive)
+## Shortcuts I would like to start using: 
+- Control-Command-Q:lock the screen
+- Shift-Command-3:taking the screen shots
+- Control-Command-F:use the app in full screen
