@@ -27,7 +27,8 @@ Markdown language practice 📋
 
 ### Experiments
 
-![Banff][https://www.google.com/imgres?q=banff&imgurl=https%3A%2F%2Flp-cms-production.imgix.net%2F2019-06%2F4645e160dd3f5555deb3c4bd0a35a1975a7c7a4b9e4ffe63f790fe5e903d0a73.jpg&imgrefurl=https%3A%2F%2Fwww.lonelyplanet.com%2Fcanada%2Falberta%2Fbanff-and-jasper-national-parks&docid=-6aBdX-qCBQMbM&tbnid=ZBFrpmwpzxWtiM&vet=12ahUKEwjQwom5yt6IAxUsLtAFHWGXCbIQM3oECGgQAA..i&w=4656&h=3372&hcb=2&ved=2ahUKEwjQwom5yt6IAxUsLtAFHWGXCbIQM3oECGgQAA]
+![IMG_5021](https://github.com/user-attachments/assets/6e4d7f69-e3b5-47ef-a96b-f95e425aa97f)
+
 
 ## Keyboard shortcuts
 Shortcuts I frequently use: 
