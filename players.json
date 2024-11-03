@@ -15,12 +15,12 @@
       "team_city": "Miami",
       "position": "Forward",
       "age": 36
-    },
+    }, //object example
     {
       "name": "Serena Williams",
       "sport": "Tennis",
-      "team_name": "N/A",  //null example
-      "team_city": "N/A",
+      "team_name": null,  //null example
+      "team_city": null,
       "position": "Player",
       "age": 41
     },
@@ -33,5 +33,5 @@
       "age": 46
     }
   
-  ]  //array
+  ]  //array example
 }
