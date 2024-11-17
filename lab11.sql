@@ -42,10 +42,10 @@ WHERE due_date LIKE '2024-10%'
 
 ##Find the Most Recent Completed Assignment
 
-SELECT due_date,title
-FROM assignments
-WHERE status = 'Completed'
-AND due_date LIKE '2024-11%'
+SELECT *
+from assignments
+WHERE due_date ='2024-09-10'
+
 
 
 ##Count of "Not Started" Assignments
