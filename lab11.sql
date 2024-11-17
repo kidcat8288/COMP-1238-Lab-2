@@ -40,4 +40,30 @@ WHERE due_date LIKE '2024-10%'
 
   
 
-Find the Most Recent Completed Assignment
+##Find the Most Recent Completed Assignment
+
+SELECT due_date,title
+FROM assignments
+WHERE status = 'Completed'
+AND due_date LIKE '2024-11%'
+
+
+##Count of "Not Started" Assignments
+##Write a query to find the total number of assignments with a status of "Not Started". Remember to use single quotes for strings in SQL.
+
+SELECT COUNT(*)
+FROM assignments
+WHERE status = 'Not Started';
+
+
+  
+
+##Find Courses with Labs on Tuesday
+##Write a query to find the course_id and course_name of courses that have lab sessions on Tuesday. Hint: use LIKE 'Tue%
+
+SELECT course_id,course_name
+FROM courses
+WHERE lab_time LIKE 'Tue%'
+
+
+
