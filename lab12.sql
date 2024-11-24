@@ -36,8 +36,20 @@ order by LENGTH(course_name) DESC
 
 --Write a query to return a list of all course names in uppercase.
 
+SELECT upper(course_name)
+from courses
+
 
 --Write a query to list the titles of all assignments that are due in September, regardless of year. Use the LIKE operator to filter due_date.
 
+SELECT due_date,title
+from assignments
+WHERE due_date LIKE '2024-09%' or due_date LIKE '2025-09%';
+
+
 
 --Write a query to find all assignments where the due_date is missing. Note, there are no assignments with NULL due_dates initially, but one was added if you ran the INSERT statement in the examples above. Hint: due_date IS NULL
+
+SELECT due_date,title
+from assignments
+WHERE due_date IS NULL
