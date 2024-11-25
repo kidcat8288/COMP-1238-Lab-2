@@ -53,3 +53,17 @@ WHERE due_date LIKE '2024-09%' or due_date LIKE '2025-09%';
 SELECT due_date,title
 from assignments
 WHERE due_date IS NULL
+
+--Write a query to list each course_id along with the total number of assignments associated with it. Join the two tables and use the COUNT() function to aggregate the results.
+
+SELECT COUNT(*),course_id
+from assignments
+GROUP BY course_id
+
+--Write a query to find all courses that do not have any assignments.
+SELECT assignments.id, assignments.title, courses.course_name
+FROM assignments
+RIGHT JOIN courses 
+ON assignments.course_id = courses.course_id
+WHERE assignments.id is NULL
+
